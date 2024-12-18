@@ -1,0 +1,51 @@
+# Author: Sawyer Baar
+# ONID: baars
+# Date: 06/02/2024
+
+
+A. REQUIREMENTS:
+    1. For a list of python packages and versions, see:
+        requirements.txt
+
+    2. Developed on Python 3.12.0
+
+    3. Packages installed:
+        # pip3 install json
+
+    4. New Files:
+        config_manager.py           (Manages communication of configurations to other nodes.)
+        config_message.py           (Inherits from BaseMessage. Sends configurations between nodes.)
+        monitor_manager.py          (Manages monitoring services.)
+        nm_tools.py                 (network monitoring functions provided in P1)
+        network_monitoring_task.py  (A worker thread for each monitoring service)
+
+
+B. CITATIONS:
+    Files provided in the assignment description were used and modified.
+
+C. TO RUN THE PROGRAM:
+    The given commands to run the main app have not changed. A few commands have been added for the new functionality.
+
+    1. SET CONFIGURATION (SRS 4)
+        To set the configuration, the command is below. The
+
+        >> configure <filename>
+        config_file.json is the default file name
+
+
+    2. PRINT HIVE CONFIGURATION (SRS 6)
+
+        >> list_config all
+
+
+    3. PRINT LOCAL NODE CONFIGURATION (SRS 7)
+
+        >> list_config local
+
+
+
+D. TO CONFIGURE SERVICES TO BE MONITORED:
+
+
+
+

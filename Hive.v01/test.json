@@ -1,0 +1,15 @@
+{'LosAngeles':
+  {'tasks': [
+    {'hostname': 'google.com', 'service': 'https', 'ip': 'None', 'port': '443', 'frequency': 10},
+    {'hostname': 'oregonstate.edu', 'service': 'tcp', 'ip': 'None', 'port': '80', 'frequency': 11},
+    {'hostname': 'nist.gov', 'service': 'udp', 'ip': 'None', 'port': '80', 'frequency': 12}]},
+  'London':
+    {'config':
+      {'tasks': [
+        {'hostname': 'google.com', 'service': 'HTTP', 'ip': 'None', 'port': 80, 'frequency': 15},
+        {'hostname': 'oregonstate.edu', 'service': 'HTTPS', 'ip': 'None', 'port': 443, 'frequency': 15},
+        {'hostname': 'nist.gov', 'service': 'TCP', 'ip': '51.164.123.247', 'port': 80, 'frequency': 15}]}}}
+  {'tasks': [
+    {'hostname': 'google.com', 'service': 'https', 'ip': 'None', 'port': '443', 'frequency': 10},
+    {'hostname': 'oregonstate.edu', 'service': 'tcp', 'ip': 'None', 'port': '80', 'frequency': 11},
+    {'hostname': 'nist.gov', 'service': 'udp', 'ip': 'None', 'port': '80', 'frequency': 12}]}

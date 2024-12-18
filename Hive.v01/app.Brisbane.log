@@ -1,0 +1,1364 @@
+[2024-06-03 03:43:23][HiveNodeManager                ][INFO   ] Node Brisbane does not exist in the node list...
+[2024-06-03 03:43:23][HiveReceiverService            ][INFO   ] HiveReceiverService is running...
+[2024-06-03 03:43:28][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 65372)
+[2024-06-03 03:43:28][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-03 03:43:29][CliCommandProcessor            ][INFO   ] Usage: connect <ip_address> <port> - Connect to a new node in the network
+[2024-06-03 03:43:33][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 65379)
+[2024-06-03 03:43:33][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-03 03:43:44][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 65383)
+[2024-06-03 03:43:44][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-03 03:43:46][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:43:46]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-03 03:43:46][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:43:46]: http request to google.com. Description: No description provided.
+[2024-06-03 03:43:46][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:43:46]: http request to nist.gov. Description: No description provided.
+[2024-06-03 03:43:51][HiveNodeManager                ][INFO   ] ------------------------------------------------------------------------------------------------------------------------
+[2024-06-03 03:43:51][HiveNodeManager                ][INFO   ] Hostname:<30 | Service:<7 | frequency:<7
+[2024-06-03 03:43:51][HiveNodeManager                ][INFO   ] ------------------------------ | ------- | -------
+[2024-06-03 03:43:51][HiveNodeManager                ][INFO   ] google.com                     | http    | 10     
+[2024-06-03 03:43:51][HiveNodeManager                ][INFO   ] oregonstate.edu                | udp     | 11     
+[2024-06-03 03:43:51][HiveNodeManager                ][INFO   ] nist.gov                       | http    | 12     
+[2024-06-03 03:43:51][HiveNodeManager                ][INFO   ] ------------------------------------------------------------------------------------------------------------------------
+[2024-06-03 03:43:54][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 65392)
+[2024-06-03 03:43:54][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-03 03:43:58][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:43:58]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-03 03:43:58][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:43:58]: http request to google.com. Description: No description provided.
+[2024-06-03 03:43:58][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:43:58]: http request to nist.gov. Description: No description provided.
+[2024-06-03 03:44:01][HiveNodeManager                ][INFO   ] ------------------------------------------------------------------------------------------------------------------------
+[2024-06-03 03:44:01][HiveNodeManager                ][INFO   ] Hostname:<30 | Service:<7 | frequency:<7
+[2024-06-03 03:44:01][HiveNodeManager                ][INFO   ] ------------------------------ | ------- | -------
+[2024-06-03 03:44:01][HiveNodeManager                ][INFO   ] google.com                     | http    | 10     
+[2024-06-03 03:44:01][HiveNodeManager                ][INFO   ] oregonstate.edu                | udp     | 11     
+[2024-06-03 03:44:01][HiveNodeManager                ][INFO   ] nist.gov                       | http    | 12     
+[2024-06-03 03:44:01][HiveNodeManager                ][INFO   ] ------------------------------------------------------------------------------------------------------------------------
+[2024-06-03 03:44:04][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 65401)
+[2024-06-03 03:44:04][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-03 03:44:11][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:44:11]: http request to nist.gov. Description: No description provided.
+[2024-06-03 03:44:11][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:44:11]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-03 03:44:11][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:44:11]: http request to google.com. Description: No description provided.
+[2024-06-03 03:44:14][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 65407)
+[2024-06-03 03:44:14][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-03 03:44:23][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:44:23]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-03 03:44:23][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:44:23]: http request to google.com. Description: No description provided.
+[2024-06-03 03:44:23][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:44:23]: http request to nist.gov. Description: No description provided.
+[2024-06-03 03:44:24][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 65417)
+[2024-06-03 03:44:24][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-03 03:44:32][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 65421)
+[2024-06-03 03:44:32][HiveNodeManager                ][INFO   ] Node LosAngeles does not exist in the node list...
+[2024-06-03 03:44:32][HiveNodeManager                ][INFO   ] Node London does not exist in the node list...
+[2024-06-03 03:44:32][HiveReceiverService            ][INFO   ] Handled gossip from LosAngeles
+[2024-06-03 03:44:33][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to LosAngeles...
+[2024-06-03 03:44:35][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:44:35]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-03 03:44:35][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:44:35]: http request to nist.gov. Description: No description provided.
+[2024-06-03 03:44:35][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:44:35]: http request to google.com. Description: No description provided.
+[2024-06-03 03:44:39][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 65429)
+[2024-06-03 03:44:39][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-03 03:44:43][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to LosAngeles...
+[2024-06-03 03:44:47][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:44:47]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-03 03:44:47][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:44:47]: http request to google.com. Description: No description provided.
+[2024-06-03 03:44:47][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:44:47]: http request to nist.gov. Description: No description provided.
+[2024-06-03 03:44:47][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 65435)
+[2024-06-03 03:44:47][HiveReceiverService            ][INFO   ] Handled config from LosAngeles
+[2024-06-03 03:44:52][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 65442)
+[2024-06-03 03:44:52][HiveReceiverService            ][INFO   ] Handled heartbeat from LosAngeles
+[2024-06-03 03:44:53][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to LosAngeles...
+[2024-06-03 03:44:53][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from LosAngeles...
+[2024-06-03 03:44:53][InboundQueueCommandProcessor   ][INFO   ] Found LosAngeles in the node list...
+[2024-06-03 03:44:53][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for LosAngeles...
+[2024-06-03 03:44:59][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:44:59]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-03 03:44:59][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:44:59]: http request to google.com. Description: No description provided.
+[2024-06-03 03:44:59][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:44:59]: http request to nist.gov. Description: No description provided.
+[2024-06-03 03:44:59][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 65446)
+[2024-06-03 03:44:59][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-03 03:45:03][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-03 03:45:07][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 65455)
+[2024-06-03 03:45:07][HiveReceiverService            ][INFO   ] Handled config from LosAngeles
+[2024-06-03 03:45:11][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:45:11]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-03 03:45:11][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:45:11]: http request to google.com. Description: No description provided.
+[2024-06-03 03:45:11][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:45:11]: http request to nist.gov. Description: No description provided.
+[2024-06-03 03:45:13][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to LosAngeles...
+[2024-06-03 03:45:17][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 65462)
+[2024-06-03 03:45:17][HiveReceiverService            ][INFO   ] Handled heartbeat from LosAngeles
+[2024-06-03 03:45:18][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from LosAngeles...
+[2024-06-03 03:45:18][InboundQueueCommandProcessor   ][INFO   ] Found LosAngeles in the node list...
+[2024-06-03 03:45:18][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for LosAngeles...
+[2024-06-03 03:45:23][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:45:23]: http request to nist.gov. Description: No description provided.
+[2024-06-03 03:45:23][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:45:23]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-03 03:45:23][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:45:23]: http request to google.com. Description: No description provided.
+[2024-06-03 03:45:23][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to LosAngeles...
+[2024-06-03 03:45:24][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 65470)
+[2024-06-03 03:45:24][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-03 03:45:33][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-03 03:45:35][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:45:35]: http request to google.com. Description: No description provided.
+[2024-06-03 03:45:35][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:45:35]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-03 03:45:35][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:45:35]: http request to nist.gov. Description: No description provided.
+[2024-06-03 03:45:37][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 65482)
+[2024-06-03 03:45:37][HiveReceiverService            ][INFO   ] Handled config from LosAngeles
+[2024-06-03 03:45:43][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-03 03:45:47][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:45:47]: http request to google.com. Description: No description provided.
+[2024-06-03 03:45:47][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:45:47]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-03 03:45:47][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:45:47]: http request to nist.gov. Description: No description provided.
+[2024-06-03 03:45:49][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 65490)
+[2024-06-03 03:45:49][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-03 03:45:53][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-03 03:45:59][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:45:59]: http request to google.com. Description: No description provided.
+[2024-06-03 03:45:59][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:45:59]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-03 03:45:59][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:45:59]: http request to nist.gov. Description: No description provided.
+[2024-06-03 03:46:02][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 65502)
+[2024-06-03 03:46:02][HiveReceiverService            ][INFO   ] Handled config from LosAngeles
+[2024-06-03 03:46:03][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to LosAngeles...
+[2024-06-03 03:46:07][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 65505)
+[2024-06-03 03:46:07][HiveReceiverService            ][INFO   ] Handled heartbeat from LosAngeles
+[2024-06-03 03:46:08][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from LosAngeles...
+[2024-06-03 03:46:08][InboundQueueCommandProcessor   ][INFO   ] Found LosAngeles in the node list...
+[2024-06-03 03:46:08][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for LosAngeles...
+[2024-06-03 03:46:11][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:46:11]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-03 03:46:11][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:46:11]: http request to nist.gov. Description: No description provided.
+[2024-06-03 03:46:11][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:46:11]: http request to google.com. Description: No description provided.
+[2024-06-03 03:46:12][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 65512)
+[2024-06-03 03:46:12][HiveNodeManager                ][INFO   ] Node LosAngeles already exists in the node list...
+[2024-06-03 03:46:12][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-03 03:46:12][HiveReceiverService            ][INFO   ] Handled gossip from LosAngeles
+[2024-06-03 03:46:13][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to LosAngeles...
+[2024-06-03 03:46:14][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 65513)
+[2024-06-03 03:46:14][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-03 03:46:23][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:46:23]: http request to google.com. Description: No description provided.
+[2024-06-03 03:46:23][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:46:23]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-03 03:46:23][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:46:23]: http request to nist.gov. Description: No description provided.
+[2024-06-03 03:46:23][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-03 03:46:26][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 65526)
+[2024-06-03 03:46:26][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-03 03:46:27][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 65527)
+[2024-06-03 03:46:27][HiveReceiverService            ][INFO   ] Handled config from LosAngeles
+[2024-06-03 03:46:33][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to LosAngeles...
+[2024-06-03 03:46:35][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:46:35]: http request to google.com. Description: No description provided.
+[2024-06-03 03:46:35][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:46:35]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-03 03:46:35][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:46:35]: http request to nist.gov. Description: No description provided.
+[2024-06-03 03:46:39][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 65534)
+[2024-06-03 03:46:39][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-03 03:46:43][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-03 03:46:47][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:46:47]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-03 03:46:47][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:46:47]: http request to google.com. Description: No description provided.
+[2024-06-03 03:46:47][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:46:47]: http request to nist.gov. Description: No description provided.
+[2024-06-03 03:46:47][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49160)
+[2024-06-03 03:46:47][HiveReceiverService            ][INFO   ] Handled config from LosAngeles
+[2024-06-03 03:46:51][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49162)
+[2024-06-03 03:46:51][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-03 03:46:53][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-03 03:46:59][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:46:59]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-03 03:46:59][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:46:59]: http request to nist.gov. Description: No description provided.
+[2024-06-03 03:46:59][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:46:59]: http request to google.com. Description: No description provided.
+[2024-06-03 03:47:03][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-03 03:47:04][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49176)
+[2024-06-03 03:47:04][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-03 03:47:11][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:47:11]: http request to google.com. Description: No description provided.
+[2024-06-03 03:47:11][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:47:11]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-03 03:47:11][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-03 03:47:11]: http request to nist.gov. Description: No description provided.
+[2024-06-03 03:47:11][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49181)
+[2024-06-03 03:47:11][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-03 03:47:12][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49186)
+[2024-06-03 03:47:12][HiveReceiverService            ][INFO   ] Handled config from LosAngeles
+[2024-06-03 03:47:13][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to LosAngeles...
+[2024-06-03 03:47:16][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49188)
+[2024-06-03 03:47:16][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-03 03:47:16][HiveNodeManager                ][INFO   ] Node LosAngeles already exists in the node list...
+[2024-06-03 03:47:16][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:22:10][HiveNodeManager                ][INFO   ] Node Brisbane does not exist in the node list...
+[2024-06-04 15:22:10][HiveReceiverService            ][INFO   ] HiveReceiverService is running...
+[2024-06-04 15:22:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:22:13]: http request to google.com. Description: No description provided.
+[2024-06-04 15:22:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:22:13]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:22:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:22:13]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:22:15][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49339)
+[2024-06-04 15:22:15][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:22:20][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49342)
+[2024-06-04 15:22:20][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:22:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:22:25]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:22:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:22:25]: http request to google.com. Description: No description provided.
+[2024-06-04 15:22:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:22:25]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:22:30][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49352)
+[2024-06-04 15:22:30][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:22:37][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:22:37]: http request to google.com. Description: No description provided.
+[2024-06-04 15:22:37][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:22:37]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:22:37][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:22:37]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:22:40][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49361)
+[2024-06-04 15:22:40][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:22:49][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:22:49]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:22:49][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:22:49]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:22:49][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:22:49]: http request to google.com. Description: No description provided.
+[2024-06-04 15:22:50][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49367)
+[2024-06-04 15:22:50][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:23:00][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49379)
+[2024-06-04 15:23:00][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:23:01][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:23:01]: http request to google.com. Description: No description provided.
+[2024-06-04 15:23:01][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:23:01]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:23:01][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:23:01]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:23:10][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49383)
+[2024-06-04 15:23:10][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:23:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:23:13]: http request to google.com. Description: No description provided.
+[2024-06-04 15:23:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:23:13]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:23:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:23:13]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:23:20][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49391)
+[2024-06-04 15:23:20][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:23:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:23:25]: http request to google.com. Description: No description provided.
+[2024-06-04 15:23:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:23:25]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:23:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:23:25]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:23:30][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49400)
+[2024-06-04 15:23:30][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:23:37][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:23:37]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:23:37][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:23:37]: http request to google.com. Description: No description provided.
+[2024-06-04 15:23:37][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:23:37]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:23:38][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49404)
+[2024-06-04 15:23:38][HiveNodeManager                ][INFO   ] Node London does not exist in the node list...
+[2024-06-04 15:23:38][HiveNodeManager                ][INFO   ] Node LosAngeles does not exist in the node list...
+[2024-06-04 15:23:38][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:23:40][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to LosAngeles...
+[2024-06-04 15:23:45][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49412)
+[2024-06-04 15:23:45][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:23:49][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:23:49]: http request to google.com. Description: No description provided.
+[2024-06-04 15:23:49][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:23:49]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:23:49][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:23:49]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:23:50][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to LosAngeles...
+[2024-06-04 15:23:53][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49417)
+[2024-06-04 15:23:53][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:23:58][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49420)
+[2024-06-04 15:23:58][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:24:00][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to LosAngeles...
+[2024-06-04 15:24:00][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:24:00][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:24:00][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:24:01][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:24:01]: http request to google.com. Description: No description provided.
+[2024-06-04 15:24:01][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:24:01]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:24:01][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:24:01]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:24:03][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49429)
+[2024-06-04 15:24:03][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:24:03][HiveNodeManager                ][INFO   ] Node LosAngeles already exists in the node list...
+[2024-06-04 15:24:03][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:24:10][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:24:10][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49433)
+[2024-06-04 15:24:10][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:24:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:24:13]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:24:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:24:13]: http request to google.com. Description: No description provided.
+[2024-06-04 15:24:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:24:13]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:24:18][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49442)
+[2024-06-04 15:24:18][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:24:20][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:24:23][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49445)
+[2024-06-04 15:24:23][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:24:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:24:25]: http request to google.com. Description: No description provided.
+[2024-06-04 15:24:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:24:25]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:24:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:24:25]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:24:25][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:24:25][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:24:25][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:24:30][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to LosAngeles...
+[2024-06-04 15:24:35][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49457)
+[2024-06-04 15:24:35][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:24:37][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:24:37]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:24:37][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:24:37]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:24:37][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:24:37]: http request to google.com. Description: No description provided.
+[2024-06-04 15:24:40][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:24:49][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:24:49]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:24:49][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:24:49]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:24:49][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:24:49]: http request to google.com. Description: No description provided.
+[2024-06-04 15:24:50][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to LosAngeles...
+[2024-06-04 15:24:53][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49472)
+[2024-06-04 15:24:53][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:24:56][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49479)
+[2024-06-04 15:24:56][HiveReceiverService            ][INFO   ] Handled config from LosAngeles
+[2024-06-04 15:24:58][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49480)
+[2024-06-04 15:24:58][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:25:00][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:25:00][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:25:00][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:25:00][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:25:01][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49481)
+[2024-06-04 15:25:01][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:25:01][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49482)
+[2024-06-04 15:25:01][HiveNodeManager                ][INFO   ] Node LosAngeles already exists in the node list...
+[2024-06-04 15:25:01][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:25:01][HiveReceiverService            ][INFO   ] Handled gossip from LosAngeles
+[2024-06-04 15:25:01][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:25:01]: http request to google.com. Description: No description provided.
+[2024-06-04 15:25:01][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:25:01]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:25:01][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:25:01]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:25:10][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to LosAngeles...
+[2024-06-04 15:25:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:25:13]: http request to google.com. Description: No description provided.
+[2024-06-04 15:25:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:25:13]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:25:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:25:13]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:25:14][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49494)
+[2024-06-04 15:25:14][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:25:19][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49497)
+[2024-06-04 15:25:19][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:25:19][HiveNodeManager                ][INFO   ] Node LosAngeles already exists in the node list...
+[2024-06-04 15:25:19][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:25:20][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:25:21][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49503)
+[2024-06-04 15:25:21][HiveReceiverService            ][INFO   ] Handled config from LosAngeles
+[2024-06-04 15:25:24][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49504)
+[2024-06-04 15:25:24][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:25:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:25:25]: http request to google.com. Description: No description provided.
+[2024-06-04 15:25:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:25:25]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:25:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:25:25]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:25:25][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:25:25][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:25:25][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:25:26][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49505)
+[2024-06-04 15:25:26][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:25:30][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:25:37][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:25:37]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:25:37][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:25:37]: http request to google.com. Description: No description provided.
+[2024-06-04 15:25:37][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:25:37]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:25:38][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49516)
+[2024-06-04 15:25:38][HiveNodeManager                ][INFO   ] Node LosAngeles already exists in the node list...
+[2024-06-04 15:25:38][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:25:38][HiveReceiverService            ][INFO   ] Handled gossip from LosAngeles
+[2024-06-04 15:25:40][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to LosAngeles...
+[2024-06-04 15:25:44][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49519)
+[2024-06-04 15:25:44][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:25:46][HiveSenderClient               ][ERROR  ] Connection to LosAngeles failed
+[2024-06-04 15:25:49][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:25:49]: http request to google.com. Description: No description provided.
+[2024-06-04 15:25:49][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:25:49]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:25:49][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:25:49]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:25:50][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to LosAngeles...
+[2024-06-04 15:25:51][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49524)
+[2024-06-04 15:25:51][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:25:54][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49529)
+[2024-06-04 15:25:54][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:25:54][HiveNodeManager                ][INFO   ] Node LosAngeles already exists in the node list...
+[2024-06-04 15:25:54][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:26:00][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:26:01][HiveSenderClient               ][ERROR  ] Connection to LosAngeles failed
+[2024-06-04 15:26:01][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:26:01]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:26:01][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:26:01]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:26:01][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:26:01]: http request to google.com. Description: No description provided.
+[2024-06-04 15:26:06][HiveSenderClient               ][ERROR  ] Connection to LosAngeles failed
+[2024-06-04 15:26:09][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49543)
+[2024-06-04 15:26:09][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:26:10][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:26:11][HiveSenderClient               ][ERROR  ] Connection to LosAngeles failed
+[2024-06-04 15:26:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:26:13]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:26:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:26:13]: http request to google.com. Description: No description provided.
+[2024-06-04 15:26:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:26:13]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:26:14][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49545)
+[2024-06-04 15:26:14][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:26:15][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:26:15][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:26:15][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:26:16][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49546)
+[2024-06-04 15:26:16][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:26:19][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49547)
+[2024-06-04 15:26:19][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:26:19][HiveNodeManager                ][INFO   ] Node LosAngeles already exists in the node list...
+[2024-06-04 15:26:19][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:26:20][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:26:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:26:25]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:26:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:26:25]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:26:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:26:25]: http request to google.com. Description: No description provided.
+[2024-06-04 15:26:26][HiveSenderClient               ][ERROR  ] Connection to LosAngeles failed
+[2024-06-04 15:26:30][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:26:34][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49557)
+[2024-06-04 15:26:34][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:26:37][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:26:37]: http request to google.com. Description: No description provided.
+[2024-06-04 15:26:37][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:26:37]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:26:37][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:26:37]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:26:39][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49559)
+[2024-06-04 15:26:39][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:26:40][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:26:40][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:26:40][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:26:40][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:26:41][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49564)
+[2024-06-04 15:26:41][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:26:49][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:26:49]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:26:49][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:26:49]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:26:49][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:26:49]: http request to google.com. Description: No description provided.
+[2024-06-04 15:26:50][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:26:51][HiveSenderClient               ][ERROR  ] Connection to LosAngeles failed
+[2024-06-04 15:26:54][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49571)
+[2024-06-04 15:26:54][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:26:56][HiveSenderClient               ][ERROR  ] Connection to LosAngeles failed
+[2024-06-04 15:27:00][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:27:01][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:27:01]: http request to google.com. Description: No description provided.
+[2024-06-04 15:27:01][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:27:01]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:27:01][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:27:01]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:27:04][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49579)
+[2024-06-04 15:27:04][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:27:05][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:27:05][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:27:05][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:27:06][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49580)
+[2024-06-04 15:27:06][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:27:10][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:27:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:27:13]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:27:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:27:13]: http request to google.com. Description: No description provided.
+[2024-06-04 15:27:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:27:13]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:27:16][HiveSenderClient               ][ERROR  ] Connection to LosAngeles failed
+[2024-06-04 15:27:19][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49589)
+[2024-06-04 15:27:19][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:27:20][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:27:24][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49591)
+[2024-06-04 15:27:24][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:27:24][HiveNodeManager                ][INFO   ] Node LosAngeles already exists in the node list...
+[2024-06-04 15:27:24][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:27:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:27:25]: http request to google.com. Description: No description provided.
+[2024-06-04 15:27:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:27:25]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:27:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:27:25]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:27:29][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49599)
+[2024-06-04 15:27:29][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:27:30][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:27:30][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:27:30][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:27:30][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:27:31][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49601)
+[2024-06-04 15:27:31][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:27:37][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:27:37]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:27:37][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:27:37]: http request to google.com. Description: No description provided.
+[2024-06-04 15:27:37][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:27:37]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:27:40][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:27:44][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49611)
+[2024-06-04 15:27:44][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:27:49][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:27:49]: http request to google.com. Description: No description provided.
+[2024-06-04 15:27:49][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:27:49]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:27:49][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:27:49]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:27:50][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:27:54][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49616)
+[2024-06-04 15:27:54][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:27:54][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49617)
+[2024-06-04 15:27:54][HiveNodeManager                ][INFO   ] Node LosAngeles already exists in the node list...
+[2024-06-04 15:27:54][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:27:54][HiveReceiverService            ][INFO   ] Handled gossip from LosAngeles
+[2024-06-04 15:27:55][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:27:55][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:27:55][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:27:56][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49618)
+[2024-06-04 15:27:56][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:28:00][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:28:01][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:28:01]: http request to google.com. Description: No description provided.
+[2024-06-04 15:28:01][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:28:01]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:28:01][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:28:01]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:28:09][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49629)
+[2024-06-04 15:28:09][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:28:09][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49630)
+[2024-06-04 15:28:09][HiveReceiverService            ][INFO   ] Handled config from LosAngeles
+[2024-06-04 15:28:10][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:28:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:28:13]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:28:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:28:13]: http request to google.com. Description: No description provided.
+[2024-06-04 15:28:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:28:13]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:28:14][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49632)
+[2024-06-04 15:28:14][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:28:14][HiveNodeManager                ][INFO   ] Node LosAngeles already exists in the node list...
+[2024-06-04 15:28:14][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:28:20][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:28:21][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49640)
+[2024-06-04 15:28:21][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:28:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:28:25]: http request to google.com. Description: No description provided.
+[2024-06-04 15:28:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:28:25]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:28:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:28:25]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:28:30][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:28:31][HiveSenderClient               ][ERROR  ] Connection to LosAngeles failed
+[2024-06-04 15:28:34][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49649)
+[2024-06-04 15:28:34][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:28:37][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:28:37]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:28:37][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:28:37]: http request to google.com. Description: No description provided.
+[2024-06-04 15:28:37][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:28:37]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:28:39][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49651)
+[2024-06-04 15:28:39][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:28:39][HiveNodeManager                ][INFO   ] Node LosAngeles already exists in the node list...
+[2024-06-04 15:28:39][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:28:40][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:28:46][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49654)
+[2024-06-04 15:28:46][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:28:49][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:28:49]: http request to google.com. Description: No description provided.
+[2024-06-04 15:28:49][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:28:49]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:28:49][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:28:49]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:28:50][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:28:59][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49665)
+[2024-06-04 15:28:59][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:29:00][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:29:01][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:29:01]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:29:01][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:29:01]: http request to google.com. Description: No description provided.
+[2024-06-04 15:29:01][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:29:01]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:29:04][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49673)
+[2024-06-04 15:29:04][HiveNodeManager                ][INFO   ] Node LosAngeles already exists in the node list...
+[2024-06-04 15:29:04][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:29:04][HiveReceiverService            ][INFO   ] Handled gossip from LosAngeles
+[2024-06-04 15:29:10][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:29:11][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49679)
+[2024-06-04 15:29:11][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:29:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:29:13]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:29:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:29:13]: http request to google.com. Description: No description provided.
+[2024-06-04 15:29:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:29:13]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:29:20][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:29:21][HiveSenderClient               ][ERROR  ] Connection to LosAngeles failed
+[2024-06-04 15:29:24][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49689)
+[2024-06-04 15:29:24][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:29:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:29:25]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:29:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:29:25]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:29:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:29:25]: http request to google.com. Description: No description provided.
+[2024-06-04 15:29:26][HiveSenderClient               ][ERROR  ] Connection to LosAngeles failed
+[2024-06-04 15:29:30][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:29:31][HiveSenderClient               ][ERROR  ] Connection to LosAngeles failed
+[2024-06-04 15:29:34][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49693)
+[2024-06-04 15:29:34][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:29:36][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:29:36][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:29:36][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:29:36][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49698)
+[2024-06-04 15:29:36][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:29:37][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:29:37]: http request to google.com. Description: No description provided.
+[2024-06-04 15:29:37][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:29:37]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:29:37][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:29:37]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:29:40][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:29:46][HiveSenderClient               ][ERROR  ] Connection to LosAngeles failed
+[2024-06-04 15:29:49][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49703)
+[2024-06-04 15:29:49][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:29:49][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:29:49]: http request to google.com. Description: No description provided.
+[2024-06-04 15:29:49][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:29:49]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:29:49][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:29:49]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:29:50][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:29:51][HiveSenderClient               ][ERROR  ] Connection to LosAngeles failed
+[2024-06-04 15:29:54][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49709)
+[2024-06-04 15:29:54][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:29:54][HiveNodeManager                ][INFO   ] Node LosAngeles already exists in the node list...
+[2024-06-04 15:29:54][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:29:59][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49711)
+[2024-06-04 15:29:59][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:30:00][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:30:01][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:30:01][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:30:01][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:30:01][HiveSenderClient               ][ERROR  ] Connection to LosAngeles failed
+[2024-06-04 15:30:01][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:30:01]: http request to google.com. Description: No description provided.
+[2024-06-04 15:30:01][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:30:01]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:30:01][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:30:01]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:30:10][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:30:11][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49722)
+[2024-06-04 15:30:11][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:30:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:30:13]: http request to google.com. Description: No description provided.
+[2024-06-04 15:30:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:30:13]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:30:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:30:13]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:30:14][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49723)
+[2024-06-04 15:30:14][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:30:16][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49724)
+[2024-06-04 15:30:16][HiveNodeManager                ][INFO   ] Node LosAngeles already exists in the node list...
+[2024-06-04 15:30:16][HiveReceiverService            ][INFO   ] Handled gossip from LosAngeles
+[2024-06-04 15:30:20][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:30:24][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49733)
+[2024-06-04 15:30:24][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:30:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:30:25]: http request to google.com. Description: No description provided.
+[2024-06-04 15:30:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:30:25]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:30:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:30:25]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:30:26][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:30:26][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:30:26][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:30:26][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49734)
+[2024-06-04 15:30:26][HiveReceiverService            ][INFO   ] Handled config from LosAngeles
+[2024-06-04 15:30:30][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:30:31][HiveSenderClient               ][ERROR  ] Connection to LosAngeles failed
+[2024-06-04 15:30:36][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49740)
+[2024-06-04 15:30:36][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:30:37][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:30:37]: http request to google.com. Description: No description provided.
+[2024-06-04 15:30:37][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:30:37]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:30:37][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:30:37]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:30:39][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49745)
+[2024-06-04 15:30:39][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:30:40][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:30:49][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:30:49]: http request to google.com. Description: No description provided.
+[2024-06-04 15:30:49][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:30:49]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:30:49][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:30:49]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:30:49][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49749)
+[2024-06-04 15:30:49][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:30:50][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:30:51][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:30:51][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:30:51][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:30:56][HiveSenderClient               ][ERROR  ] Connection to LosAngeles failed
+[2024-06-04 15:31:00][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:31:01][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:31:01]: http request to google.com. Description: No description provided.
+[2024-06-04 15:31:01][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:31:01]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:31:01][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:31:01]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:31:01][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49758)
+[2024-06-04 15:31:01][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:31:05][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49759)
+[2024-06-04 15:31:05][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:31:11][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:31:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:31:13]: http request to google.com. Description: No description provided.
+[2024-06-04 15:31:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:31:13]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:31:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:31:13]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:31:15][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49767)
+[2024-06-04 15:31:15][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:31:16][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:31:16][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:31:16][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:31:21][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:31:21][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49770)
+[2024-06-04 15:31:21][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:31:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:31:25]: http request to google.com. Description: No description provided.
+[2024-06-04 15:31:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:31:25]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:31:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:31:25]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:31:31][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:31:35][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49779)
+[2024-06-04 15:31:35][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:31:37][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:31:37]: http request to google.com. Description: No description provided.
+[2024-06-04 15:31:37][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:31:37]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:31:37][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:31:37]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:31:41][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:31:42][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49782)
+[2024-06-04 15:31:42][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:31:45][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49788)
+[2024-06-04 15:31:45][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:31:46][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:31:46][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:31:46][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:31:49][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:31:49]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:31:49][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:31:49]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:31:49][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:31:49]: http request to google.com. Description: No description provided.
+[2024-06-04 15:31:51][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:32:01][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:32:01][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:32:01]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:32:01][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:32:01]: http request to google.com. Description: No description provided.
+[2024-06-04 15:32:01][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:32:01]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:32:02][HiveSenderClient               ][ERROR  ] Connection to LosAngeles failed
+[2024-06-04 15:32:05][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49807)
+[2024-06-04 15:32:05][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:32:07][HiveSenderClient               ][ERROR  ] Connection to LosAngeles failed
+[2024-06-04 15:32:10][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49811)
+[2024-06-04 15:32:10][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:32:10][HiveNodeManager                ][INFO   ] Node LosAngeles already exists in the node list...
+[2024-06-04 15:32:10][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:32:11][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:32:12][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49812)
+[2024-06-04 15:32:12][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:32:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:32:13]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:32:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:32:13]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:32:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:32:13]: http request to google.com. Description: No description provided.
+[2024-06-04 15:32:21][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:32:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:32:25]: http request to google.com. Description: No description provided.
+[2024-06-04 15:32:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:32:25]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:32:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:32:25]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:32:30][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49823)
+[2024-06-04 15:32:30][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:32:31][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:32:32][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49827)
+[2024-06-04 15:32:32][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:32:35][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49829)
+[2024-06-04 15:32:35][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:32:35][HiveNodeManager                ][INFO   ] Node LosAngeles already exists in the node list...
+[2024-06-04 15:32:35][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:32:37][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:32:37]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:32:37][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:32:37]: http request to google.com. Description: No description provided.
+[2024-06-04 15:32:37][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:32:37]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:32:41][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:32:49][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:32:49]: http request to google.com. Description: No description provided.
+[2024-06-04 15:32:49][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:32:49]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:32:49][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:32:49]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:32:51][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:32:55][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49847)
+[2024-06-04 15:32:55][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:32:57][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49848)
+[2024-06-04 15:32:57][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:33:00][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49850)
+[2024-06-04 15:33:00][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:33:00][HiveNodeManager                ][INFO   ] Node LosAngeles already exists in the node list...
+[2024-06-04 15:33:00][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:33:01][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:33:01][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:33:01]: http request to google.com. Description: No description provided.
+[2024-06-04 15:33:01][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:33:01]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:33:01][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:33:01]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:33:05][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49857)
+[2024-06-04 15:33:05][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:33:06][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:33:06][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:33:06][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:33:11][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:33:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:33:13]: http request to google.com. Description: No description provided.
+[2024-06-04 15:33:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:33:13]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:33:13][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:33:13]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:33:17][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49864)
+[2024-06-04 15:33:17][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:33:20][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49870)
+[2024-06-04 15:33:20][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:33:21][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:33:25][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49873)
+[2024-06-04 15:33:25][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:33:25][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:33:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:33:25]: http request to google.com. Description: No description provided.
+[2024-06-04 15:33:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:33:25]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:33:25][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:33:25]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:33:30][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49879)
+[2024-06-04 15:33:30][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:33:31][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:33:31][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:33:31][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:33:31][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:33:37][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49886)
+[2024-06-04 15:33:37][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:33:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:33:38]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:33:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:33:38]: http request to google.com. Description: No description provided.
+[2024-06-04 15:33:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:33:38]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:33:40][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49887)
+[2024-06-04 15:33:40][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:33:41][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:33:45][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49890)
+[2024-06-04 15:33:45][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:33:45][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:33:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:33:50]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:33:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:33:50]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:33:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:33:50]: http request to google.com. Description: No description provided.
+[2024-06-04 15:33:50][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49893)
+[2024-06-04 15:33:50][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:33:51][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:33:51][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:33:51][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:33:51][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:33:57][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49901)
+[2024-06-04 15:33:57][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:34:01][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:34:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:34:02]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:34:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:34:02]: http request to google.com. Description: No description provided.
+[2024-06-04 15:34:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:34:02]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:34:05][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49905)
+[2024-06-04 15:34:05][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:34:10][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49913)
+[2024-06-04 15:34:10][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:34:10][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:34:11][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:34:14][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:34:14]: http request to google.com. Description: No description provided.
+[2024-06-04 15:34:14][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:34:14]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:34:14][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:34:14]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:34:15][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49916)
+[2024-06-04 15:34:15][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:34:16][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:34:16][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:34:16][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:34:17][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49917)
+[2024-06-04 15:34:17][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:34:21][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:34:26][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:34:26]: http request to google.com. Description: No description provided.
+[2024-06-04 15:34:26][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:34:26]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:34:26][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:34:26]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:34:30][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49928)
+[2024-06-04 15:34:30][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:34:31][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:34:35][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49931)
+[2024-06-04 15:34:35][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:34:35][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:34:37][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49933)
+[2024-06-04 15:34:37][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:34:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:34:38]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:34:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:34:38]: http request to google.com. Description: No description provided.
+[2024-06-04 15:34:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:34:38]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:34:40][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49938)
+[2024-06-04 15:34:40][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:34:40][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49939)
+[2024-06-04 15:34:40][HiveReceiverService            ][INFO   ] Handled config from LosAngeles
+[2024-06-04 15:34:41][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:34:41][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:34:41][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:34:41][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:34:45][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49942)
+[2024-06-04 15:34:45][HiveNodeManager                ][INFO   ] Node LosAngeles already exists in the node list...
+[2024-06-04 15:34:45][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:34:45][HiveReceiverService            ][INFO   ] Handled gossip from LosAngeles
+[2024-06-04 15:34:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:34:50]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:34:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:34:50]: http request to google.com. Description: No description provided.
+[2024-06-04 15:34:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:34:50]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:34:51][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:34:55][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49951)
+[2024-06-04 15:34:55][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:35:00][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49954)
+[2024-06-04 15:35:00][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:35:00][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:35:00][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49955)
+[2024-06-04 15:35:00][HiveReceiverService            ][INFO   ] Handled config from LosAngeles
+[2024-06-04 15:35:01][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:35:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:35:02]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:35:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:35:02]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:35:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:35:02]: http request to google.com. Description: No description provided.
+[2024-06-04 15:35:02][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49956)
+[2024-06-04 15:35:02][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:35:05][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49961)
+[2024-06-04 15:35:05][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:35:06][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:35:06][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:35:06][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:35:10][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49965)
+[2024-06-04 15:35:10][HiveNodeManager                ][INFO   ] Node LosAngeles already exists in the node list...
+[2024-06-04 15:35:10][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:35:10][HiveReceiverService            ][INFO   ] Handled gossip from LosAngeles
+[2024-06-04 15:35:11][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:35:14][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:35:14]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:35:14][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:35:14]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:35:14][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:35:14]: http request to google.com. Description: No description provided.
+[2024-06-04 15:35:15][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49971)
+[2024-06-04 15:35:15][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:35:20][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49974)
+[2024-06-04 15:35:20][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:35:20][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:35:21][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:35:22][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49976)
+[2024-06-04 15:35:22][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:35:25][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49977)
+[2024-06-04 15:35:25][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:35:25][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49978)
+[2024-06-04 15:35:25][HiveReceiverService            ][INFO   ] Handled config from LosAngeles
+[2024-06-04 15:35:26][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:35:26]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:35:26][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:35:26]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:35:26][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:35:26]: http request to google.com. Description: No description provided.
+[2024-06-04 15:35:26][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:35:26][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:35:26][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:35:30][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49985)
+[2024-06-04 15:35:30][HiveReceiverService            ][INFO   ] Handled heartbeat from LosAngeles
+[2024-06-04 15:35:31][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:35:31][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from LosAngeles...
+[2024-06-04 15:35:31][InboundQueueCommandProcessor   ][INFO   ] Found LosAngeles in the node list...
+[2024-06-04 15:35:31][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for LosAngeles...
+[2024-06-04 15:35:35][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49987)
+[2024-06-04 15:35:35][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:35:35][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49988)
+[2024-06-04 15:35:35][HiveNodeManager                ][INFO   ] Node LosAngeles already exists in the node list...
+[2024-06-04 15:35:35][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:35:35][HiveReceiverService            ][INFO   ] Handled gossip from LosAngeles
+[2024-06-04 15:35:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:35:38]: http request to google.com. Description: No description provided.
+[2024-06-04 15:35:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:35:38]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:35:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:35:38]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:35:40][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49990)
+[2024-06-04 15:35:40][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:35:40][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:35:41][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to LosAngeles...
+[2024-06-04 15:35:42][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49992)
+[2024-06-04 15:35:42][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:35:45][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 49997)
+[2024-06-04 15:35:45][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:35:46][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:35:46][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:35:46][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:35:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:35:50]: http request to google.com. Description: No description provided.
+[2024-06-04 15:35:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:35:50]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:35:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:35:50]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:35:50][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50001)
+[2024-06-04 15:35:50][HiveReceiverService            ][INFO   ] Handled config from LosAngeles
+[2024-06-04 15:35:51][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to LosAngeles...
+[2024-06-04 15:35:55][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50003)
+[2024-06-04 15:35:55][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:35:55][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50004)
+[2024-06-04 15:35:55][HiveReceiverService            ][INFO   ] Handled heartbeat from LosAngeles
+[2024-06-04 15:35:56][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from LosAngeles...
+[2024-06-04 15:35:56][InboundQueueCommandProcessor   ][INFO   ] Found LosAngeles in the node list...
+[2024-06-04 15:35:56][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for LosAngeles...
+[2024-06-04 15:36:00][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50010)
+[2024-06-04 15:36:00][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:36:00][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:36:00][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50011)
+[2024-06-04 15:36:00][HiveNodeManager                ][INFO   ] Node LosAngeles already exists in the node list...
+[2024-06-04 15:36:00][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:36:00][HiveReceiverService            ][INFO   ] Handled gossip from LosAngeles
+[2024-06-04 15:36:01][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:36:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:36:02]: http request to google.com. Description: No description provided.
+[2024-06-04 15:36:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:36:02]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:36:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:36:02]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:36:05][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50013)
+[2024-06-04 15:36:05][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:36:06][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:36:06][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:36:06][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:36:07][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50015)
+[2024-06-04 15:36:07][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:36:11][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:36:14][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:36:14]: http request to google.com. Description: No description provided.
+[2024-06-04 15:36:14][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:36:14]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:36:14][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:36:14]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:36:15][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50023)
+[2024-06-04 15:36:15][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:36:15][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50024)
+[2024-06-04 15:36:15][HiveReceiverService            ][INFO   ] Handled config from LosAngeles
+[2024-06-04 15:36:20][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50026)
+[2024-06-04 15:36:20][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:36:20][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:36:20][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50027)
+[2024-06-04 15:36:20][HiveReceiverService            ][INFO   ] Handled heartbeat from LosAngeles
+[2024-06-04 15:36:21][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:36:21][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from LosAngeles...
+[2024-06-04 15:36:21][InboundQueueCommandProcessor   ][INFO   ] Found LosAngeles in the node list...
+[2024-06-04 15:36:21][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for LosAngeles...
+[2024-06-04 15:36:25][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50029)
+[2024-06-04 15:36:25][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:36:25][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50030)
+[2024-06-04 15:36:25][HiveNodeManager                ][INFO   ] Node LosAngeles already exists in the node list...
+[2024-06-04 15:36:25][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:36:25][HiveReceiverService            ][INFO   ] Handled gossip from LosAngeles
+[2024-06-04 15:36:26][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:36:26]: http request to google.com. Description: No description provided.
+[2024-06-04 15:36:26][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:36:26]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:36:26][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:36:26]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:36:26][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:36:26][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:36:26][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:36:27][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50032)
+[2024-06-04 15:36:27][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:36:31][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to LosAngeles...
+[2024-06-04 15:36:35][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50040)
+[2024-06-04 15:36:35][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:36:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:36:38]: http request to google.com. Description: No description provided.
+[2024-06-04 15:36:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:36:38]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:36:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:36:38]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:36:40][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50043)
+[2024-06-04 15:36:40][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:36:40][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:36:40][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50044)
+[2024-06-04 15:36:40][HiveReceiverService            ][INFO   ] Handled config from LosAngeles
+[2024-06-04 15:36:41][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to LosAngeles...
+[2024-06-04 15:36:45][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50046)
+[2024-06-04 15:36:45][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:36:46][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:36:46][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:36:46][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:36:47][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50052)
+[2024-06-04 15:36:47][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:36:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:36:50]: http request to google.com. Description: No description provided.
+[2024-06-04 15:36:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:36:50]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:36:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:36:50]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:36:51][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:36:55][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50059)
+[2024-06-04 15:36:55][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:37:00][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50061)
+[2024-06-04 15:37:00][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:37:00][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:37:01][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to LosAngeles...
+[2024-06-04 15:37:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:37:02]: http request to google.com. Description: No description provided.
+[2024-06-04 15:37:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:37:02]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:37:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:37:02]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:37:05][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50067)
+[2024-06-04 15:37:05][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:37:06][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:37:06][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:37:06][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:37:07][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50068)
+[2024-06-04 15:37:07][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:37:11][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:37:14][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:37:14]: http request to google.com. Description: No description provided.
+[2024-06-04 15:37:14][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:37:14]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:37:14][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:37:14]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:37:21][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:37:22][HiveSenderClient               ][ERROR  ] Connection to LosAngeles failed
+[2024-06-04 15:37:25][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50089)
+[2024-06-04 15:37:25][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:37:26][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:37:26]: http request to google.com. Description: No description provided.
+[2024-06-04 15:37:26][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:37:26]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:37:26][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:37:26]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:37:31][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:37:35][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50098)
+[2024-06-04 15:37:35][HiveNodeManager                ][INFO   ] Node LosAngeles already exists in the node list...
+[2024-06-04 15:37:35][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:37:35][HiveReceiverService            ][INFO   ] Handled gossip from LosAngeles
+[2024-06-04 15:37:37][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50100)
+[2024-06-04 15:37:37][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:37:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:37:38]: http request to google.com. Description: No description provided.
+[2024-06-04 15:37:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:37:38]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:37:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:37:38]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:37:41][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to LosAngeles...
+[2024-06-04 15:37:45][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50106)
+[2024-06-04 15:37:45][HiveReceiverService            ][INFO   ] Handled config from LosAngeles
+[2024-06-04 15:37:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:37:50]: http request to google.com. Description: No description provided.
+[2024-06-04 15:37:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:37:50]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:37:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:37:50]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:37:50][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50113)
+[2024-06-04 15:37:50][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:37:51][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to LosAngeles...
+[2024-06-04 15:37:52][HiveSenderClient               ][ERROR  ] Connection to LosAngeles failed
+[2024-06-04 15:38:00][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50117)
+[2024-06-04 15:38:00][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:38:01][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:38:01][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:38:01][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:38:01][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:38:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:38:02]: http request to google.com. Description: No description provided.
+[2024-06-04 15:38:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:38:02]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:38:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:38:02]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:38:02][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50118)
+[2024-06-04 15:38:02][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:38:11][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:38:14][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:38:14]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:38:14][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:38:14]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:38:14][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:38:14]: http request to google.com. Description: No description provided.
+[2024-06-04 15:38:17][HiveSenderClient               ][ERROR  ] Connection to LosAngeles failed
+[2024-06-04 15:38:21][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50129)
+[2024-06-04 15:38:21][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:38:21][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:38:26][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:38:26]: http request to google.com. Description: No description provided.
+[2024-06-04 15:38:26][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:38:26]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:38:26][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:38:26]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:38:27][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50136)
+[2024-06-04 15:38:27][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:38:31][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50138)
+[2024-06-04 15:38:31][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:38:31][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:38:31][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:38:31][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:38:31][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:38:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:38:38]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:38:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:38:38]: http request to google.com. Description: No description provided.
+[2024-06-04 15:38:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:38:38]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:38:41][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:38:46][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50150)
+[2024-06-04 15:38:46][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:38:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:38:50]: http request to google.com. Description: No description provided.
+[2024-06-04 15:38:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:38:50]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:38:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:38:50]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:38:51][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50152)
+[2024-06-04 15:38:51][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:38:51][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:38:51][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:38:53][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50154)
+[2024-06-04 15:38:53][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:38:56][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50159)
+[2024-06-04 15:38:56][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:38:56][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:38:56][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:38:56][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:39:01][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:39:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:39:02]: http request to google.com. Description: No description provided.
+[2024-06-04 15:39:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:39:02]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:39:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:39:02]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:39:06][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50163)
+[2024-06-04 15:39:06][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:39:08][HiveSenderClient               ][ERROR  ] Connection to LosAngeles failed
+[2024-06-04 15:39:08][HiveSenderClient               ][WARNING] Failed to send message to LosAngeles after 3 attempts
+[2024-06-04 15:39:11][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50169)
+[2024-06-04 15:39:11][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:39:11][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:39:11][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:39:14][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:39:14]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:39:14][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:39:14]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:39:14][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:39:14]: http request to google.com. Description: No description provided.
+[2024-06-04 15:39:16][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50171)
+[2024-06-04 15:39:16][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:39:16][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:39:16][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:39:16][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:39:18][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50172)
+[2024-06-04 15:39:18][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:39:21][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:39:26][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50175)
+[2024-06-04 15:39:26][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:39:26][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:39:26]: http request to google.com. Description: No description provided.
+[2024-06-04 15:39:26][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:39:26]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:39:26][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:39:26]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:39:31][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50182)
+[2024-06-04 15:39:31][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:39:31][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:39:31][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:39:36][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50184)
+[2024-06-04 15:39:36][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:39:36][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:39:36][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:39:36][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:39:38][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50185)
+[2024-06-04 15:39:38][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:39:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:39:38]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:39:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:39:38]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:39:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:39:38]: http request to google.com. Description: No description provided.
+[2024-06-04 15:39:41][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:39:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:39:50]: http request to google.com. Description: No description provided.
+[2024-06-04 15:39:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:39:50]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:39:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:39:50]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:39:51][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50194)
+[2024-06-04 15:39:51][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:39:51][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:39:56][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50196)
+[2024-06-04 15:39:56][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:39:56][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:39:58][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50201)
+[2024-06-04 15:39:58][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:40:01][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50202)
+[2024-06-04 15:40:01][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:40:01][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:40:01][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:40:01][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:40:01][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:40:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:40:02]: http request to google.com. Description: No description provided.
+[2024-06-04 15:40:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:40:02]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:40:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:40:02]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:40:11][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:40:13][HiveSenderClient               ][ERROR  ] Connection to LosAngeles failed
+[2024-06-04 15:40:13][HiveSenderClient               ][WARNING] Failed to send message to LosAngeles after 3 attempts
+[2024-06-04 15:40:14][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:40:14]: http request to google.com. Description: No description provided.
+[2024-06-04 15:40:14][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:40:14]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:40:14][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:40:14]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:40:16][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50212)
+[2024-06-04 15:40:16][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:40:21][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50214)
+[2024-06-04 15:40:21][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:40:21][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:40:21][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:40:23][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50215)
+[2024-06-04 15:40:23][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:40:26][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:40:26]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:40:26][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:40:26]: http request to google.com. Description: No description provided.
+[2024-06-04 15:40:26][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:40:26]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:40:26][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50216)
+[2024-06-04 15:40:26][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:40:26][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:40:26][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:40:26][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:40:31][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:40:36][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50231)
+[2024-06-04 15:40:36][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:40:36][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:40:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:40:38]: http request to google.com. Description: No description provided.
+[2024-06-04 15:40:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:40:38]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:40:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:40:38]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:40:41][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:40:43][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50257)
+[2024-06-04 15:40:43][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:40:46][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50289)
+[2024-06-04 15:40:46][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:40:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:40:50]: http request to google.com. Description: No description provided.
+[2024-06-04 15:40:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:40:50]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:40:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:40:50]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:40:51][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:40:51][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50308)
+[2024-06-04 15:40:51][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:40:51][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:40:51][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:40:51][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:40:56][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50317)
+[2024-06-04 15:40:56][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:40:56][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:40:58][HiveSenderClient               ][ERROR  ] Connection to LosAngeles failed
+[2024-06-04 15:40:58][HiveSenderClient               ][WARNING] Failed to send message to LosAngeles after 3 attempts
+[2024-06-04 15:41:01][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:41:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:41:02]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:41:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:41:02]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:41:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:41:02]: http request to google.com. Description: No description provided.
+[2024-06-04 15:41:06][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50336)
+[2024-06-04 15:41:06][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:41:08][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50337)
+[2024-06-04 15:41:08][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:41:11][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:41:11][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50338)
+[2024-06-04 15:41:11][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:41:11][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:41:11][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:41:11][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:41:14][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:41:14]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:41:14][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:41:14]: http request to google.com. Description: No description provided.
+[2024-06-04 15:41:14][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:41:14]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:41:16][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50340)
+[2024-06-04 15:41:16][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:41:16][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:41:21][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:41:26][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:41:26]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:41:26][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:41:26]: http request to google.com. Description: No description provided.
+[2024-06-04 15:41:26][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:41:26]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:41:26][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50348)
+[2024-06-04 15:41:26][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:41:28][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50349)
+[2024-06-04 15:41:28][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:41:31][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:41:31][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50351)
+[2024-06-04 15:41:31][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:41:31][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:41:31][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:41:31][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:41:36][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50357)
+[2024-06-04 15:41:36][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:41:36][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:41:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:41:38]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:41:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:41:38]: http request to google.com. Description: No description provided.
+[2024-06-04 15:41:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:41:38]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:41:41][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:41:46][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50361)
+[2024-06-04 15:41:46][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:41:48][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50363)
+[2024-06-04 15:41:48][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:41:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:41:50]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:41:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:41:50]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:41:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:41:50]: http request to google.com. Description: No description provided.
+[2024-06-04 15:41:51][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:41:51][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50368)
+[2024-06-04 15:41:51][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:41:51][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:41:51][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:41:51][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:41:56][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50370)
+[2024-06-04 15:41:56][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:41:56][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:42:01][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:42:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:42:02]: http request to google.com. Description: No description provided.
+[2024-06-04 15:42:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:42:02]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:42:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:42:02]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:42:06][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50374)
+[2024-06-04 15:42:06][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:42:08][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50379)
+[2024-06-04 15:42:08][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:42:11][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:42:11][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50380)
+[2024-06-04 15:42:11][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:42:11][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:42:11][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:42:11][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:42:14][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:42:14]: http request to google.com. Description: No description provided.
+[2024-06-04 15:42:14][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:42:14]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:42:14][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:42:14]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:42:21][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:42:21][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50387)
+[2024-06-04 15:42:21][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:42:21][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:42:26][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:42:26]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:42:26][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:42:26]: http request to google.com. Description: No description provided.
+[2024-06-04 15:42:26][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:42:26]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:42:28][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50394)
+[2024-06-04 15:42:28][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:42:31][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:42:31][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50397)
+[2024-06-04 15:42:31][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:42:36][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50402)
+[2024-06-04 15:42:36][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:42:36][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:42:36][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:42:36][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:42:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:42:38]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:42:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:42:38]: http request to google.com. Description: No description provided.
+[2024-06-04 15:42:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:42:38]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:42:41][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:42:46][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50417)
+[2024-06-04 15:42:46][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:42:46][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:42:48][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50419)
+[2024-06-04 15:42:48][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:42:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:42:50]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:42:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:42:50]: http request to google.com. Description: No description provided.
+[2024-06-04 15:42:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:42:50]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:42:51][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:42:56][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50436)
+[2024-06-04 15:42:56][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:43:01][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:43:01][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50438)
+[2024-06-04 15:43:01][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:43:01][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:43:01][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:43:01][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:43:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:43:02]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:43:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:43:02]: http request to google.com. Description: No description provided.
+[2024-06-04 15:43:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:43:02]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:43:06][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50440)
+[2024-06-04 15:43:06][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:43:06][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:43:08][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50441)
+[2024-06-04 15:43:08][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:43:11][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:43:14][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:43:14]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:43:14][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:43:14]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:43:14][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:43:14]: http request to google.com. Description: No description provided.
+[2024-06-04 15:43:16][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50448)
+[2024-06-04 15:43:16][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:43:21][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:43:21][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50455)
+[2024-06-04 15:43:21][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:43:23][HiveSenderClient               ][ERROR  ] Connection to LosAngeles failed
+[2024-06-04 15:43:23][HiveSenderClient               ][WARNING] Failed to send message to LosAngeles after 3 attempts
+[2024-06-04 15:43:26][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:43:26]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:43:26][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:43:26]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:43:26][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:43:26]: http request to google.com. Description: No description provided.
+[2024-06-04 15:43:26][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:43:26][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:43:26][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:43:28][HiveSenderClient               ][ERROR  ] Connection to LosAngeles failed
+[2024-06-04 15:43:28][HiveSenderClient               ][WARNING] Failed to send message to LosAngeles after 3 attempts
+[2024-06-04 15:43:31][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:43:31][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50463)
+[2024-06-04 15:43:31][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:43:31][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:43:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:43:38]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:43:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:43:38]: http request to google.com. Description: No description provided.
+[2024-06-04 15:43:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:43:38]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:43:38][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50466)
+[2024-06-04 15:43:38][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:43:41][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:43:41][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50467)
+[2024-06-04 15:43:41][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:43:46][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50475)
+[2024-06-04 15:43:46][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:43:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:43:50]: http request to google.com. Description: No description provided.
+[2024-06-04 15:43:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:43:50]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:43:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:43:50]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:43:51][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:43:51][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:43:51][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:43:51][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:43:56][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50479)
+[2024-06-04 15:43:56][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:43:56][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:43:58][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50483)
+[2024-06-04 15:43:58][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:44:01][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:44:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:44:02]: http request to google.com. Description: No description provided.
+[2024-06-04 15:44:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:44:02]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:44:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:44:02]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:44:06][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50487)
+[2024-06-04 15:44:06][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:44:11][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:44:11][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50489)
+[2024-06-04 15:44:11][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:44:14][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:44:14]: http request to google.com. Description: No description provided.
+[2024-06-04 15:44:14][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:44:14]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:44:14][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:44:14]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:44:16][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:44:16][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:44:16][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:44:18][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50505)
+[2024-06-04 15:44:18][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:44:21][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:44:21][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50506)
+[2024-06-04 15:44:21][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:44:21][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:44:26][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:44:26]: http request to google.com. Description: No description provided.
+[2024-06-04 15:44:26][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:44:26]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:44:26][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:44:26]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:44:31][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:44:31][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50514)
+[2024-06-04 15:44:31][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:44:36][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50516)
+[2024-06-04 15:44:36][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:44:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:44:38]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:44:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:44:38]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:44:38][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:44:38]: http request to google.com. Description: No description provided.
+[2024-06-04 15:44:38][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50521)
+[2024-06-04 15:44:38][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:44:41][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:44:41][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:44:41][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:44:41][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:44:46][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50527)
+[2024-06-04 15:44:46][HiveNodeManager                ][INFO   ] Node London already exists in the node list...
+[2024-06-04 15:44:46][HiveReceiverService            ][INFO   ] Handled gossip from London
+[2024-06-04 15:44:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:44:50]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:44:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:44:50]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:44:50][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:44:50]: http request to google.com. Description: No description provided.
+[2024-06-04 15:44:51][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:44:56][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50534)
+[2024-06-04 15:44:56][HiveReceiverService            ][INFO   ] Handled config from London
+[2024-06-04 15:44:58][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50535)
+[2024-06-04 15:44:58][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:45:01][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:45:01][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50536)
+[2024-06-04 15:45:01][HiveReceiverService            ][INFO   ] Handled heartbeat from London
+[2024-06-04 15:45:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:45:02]: http request to google.com. Description: No description provided.
+[2024-06-04 15:45:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:45:02]: udp request to oregonstate.edu. Description: No description provided.
+[2024-06-04 15:45:02][MonitorManager                 ][INFO   ] [**OFF-LINE**] [2024-06-04 15:45:02]: http request to nist.gov. Description: No description provided.
+[2024-06-04 15:45:06][InboundQueueCommandProcessor   ][INFO   ] Received heartbeat from London...
+[2024-06-04 15:45:06][InboundQueueCommandProcessor   ][INFO   ] Found London in the node list...
+[2024-06-04 15:45:06][InboundQueueCommandProcessor   ][INFO   ] Updated last heartbeat for London...
+[2024-06-04 15:45:08][HiveSenderClient               ][ERROR  ] Connection to London failed
+[2024-06-04 15:45:11][HeartbeatProtocolCommandManager][INFO   ] Sending heartbeat to London...
+[2024-06-04 15:46:01][HiveNodeManager                ][INFO   ] Node Brisbane does not exist in the node list...
+[2024-06-04 15:46:01][HiveReceiverService            ][INFO   ] HiveReceiverService is running...
+[2024-06-04 15:46:06][HiveNodeManager                ][INFO   ] ------------------------------------------------------------------------------------------------------------------------
+[2024-06-04 15:46:06][HiveNodeManager                ][INFO   ] Friendly Name  | IP Address | Port  | Status | Last Heartbeat | Failed Connections
+[2024-06-04 15:46:06][HiveNodeManager                ][INFO   ] -------------- | ---------- | ----- | ------ | -------------- | ------------------
+[2024-06-04 15:46:06][HiveNodeManager                ][INFO   ] Brisbane*      | 127.0.0.1  | 54323 | Live   | None           | 0                 
+[2024-06-04 15:46:06][HiveNodeManager                ][INFO   ] ------------------------------------------------------------------------------------------------------------------------
+[2024-06-04 15:46:06][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50574)
+[2024-06-04 15:46:06][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:46:12][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50576)
+[2024-06-04 15:46:12][HiveReceiverService            ][INFO   ] Handled config from Brisbane
+[2024-06-04 15:46:22][HiveReceiverService            ][INFO   ] Connection from ('127.0.0.1', 50587)
+[2024-06-04 15:46:22][HiveReceiverService            ][INFO   ] Handled config from Brisbane
